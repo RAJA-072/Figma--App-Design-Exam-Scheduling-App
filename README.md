@@ -23,5 +23,6 @@ These Figma screens showcase the core functionalities of the GroupBudget app. Th
 * This Figma design serves as a reference for beginners to start with figma.
 * The design file itself is not functional code.
 
-
+**Link to FIGMA DESIGN**
+* Refer the figma text File.
 
