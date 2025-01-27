@@ -20,8 +20,7 @@ These Figma screens showcase the core functionalities of the GroupBudget app. Th
 
 **Getting Started**
 
-* This Figma design serves as a reference for beginners to start with figma.
-
+* This Figma design serves as a reference for beginners to start with figma
 
 
 
